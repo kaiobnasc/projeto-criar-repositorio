@@ -1,0 +1,1 @@
+Arquivo Txt de exemplo para ser enviado ao repositório GitHub através de linha de comando no Git
